@@ -18,7 +18,7 @@ This analysis followed in the footsteps of a variety of earlier studies includin
 <li>Fell and Sporleder’s (2014) lyrics-based analysis and classification of music.</li>
 </ul>
 
-The major question to be answered was, "How have Rap lyric evolved overtime?" To answer this general question, the series focused on three major types of analysis. In each case the basic idea was to determine whether there were differences among the lyrics and whether the differences varied systematically over time. Include among the types were:
+The major question to be answered was, "How have Rap lyric evolved overtime?" To answer this general question, the series focused on three major types of analysis. In each case the basic idea was to determine whether there were differences among the lyrics and whether the differences varied systematically over time. Include among the types of analysis were:
 
 <ol>
 <li>NLP text analysis -- an analysis of the lexicon, grammatical structure, and rhyming structure</li>
