@@ -3,13 +3,7 @@ A summary of an earlier 3 parts series analyzing the evolution of rap lyrics wit
 
 <h2>Introduction</h3>
 
-This repository highlights the work done on an earlier (2016) three part series focused on exploring and analyzing the evolution of rap lyrics from 1980 to December 2015. The series is found at:
-
-<ul>
-<li><a href='http://dataffiti.com/2016/01/17/analyzing-rap-lyrics-part-1-of-3-creating-a-corpus/'>Analyzing Rap Lyrics – Part 1 of 3: Creating a Corpus</a></li>
-<li><a href='http://dataffiti.com/2016/03/09/analyzing-rap-lyrics-part-2-preparing-cleaning-and-exploring-rap-lyrics/'> Analyzing Rap Lyrics – Part 2: Preparing, Cleaning, and Exploring Rap Lyrics</a></li>
-<li><a href='http://dataffiti.com/2016/06/20/long-time-between-posts/'>Analyzing Rap Lyrics – Part 3: Analytical Results and Implications</a></li>
-</ul>
+This repository highlights the work done on an earlier (2016) three part series focused on exploring and analyzing the evolution of rap lyrics from 1980 to December 2015. The series was originally found at <a href='http://Dataffiti.com'>Dataffiti.com</a>.  For convenience  I made PDF copies of the 3 parts and placed them in this repository.
 
 <h3>Summary of Series</h3>
 
@@ -24,16 +18,19 @@ This analysis followed in the footsteps of a variety of earlier studies includin
 <li>Fell and Sporleder’s (2014) lyrics-based analysis and classification of music.</li>
 </ul>
 
-In particular, the analysis in the series followed 3 major strains:
+The major question to be answered was, "How have Rap lyric evolved overtime?" To answer this general question, the series focused on three major types of analysis. In each case the basic idea was to determine whether there were differences among the lyrics and whether the differences varied systematically over time. Include among the types were:
 
 <ol>
-<li>Traditional NLP text analysis</li>
-<li>Topic mining based on an algorithm known as Non-negative Matrix Factorization</li>
-<li>Classification based on the underlying <i>style</i> of a lyric</li>
+<li>NLP text analysis -- an analysis of the lexicon, grammatical structure, and rhyming structure</li>
+<li>Topic mining based on an algorithm known as Non-negative Matrix Factorization -- an analysis of the major underlying themes and topics in the corpus</li>
+<li>Classification -- an analysis aimed at determining whether the lyrics could be subsetted into a collection of differentiated classes based on the "style" of the lyrics.</li>
 </ol>
 
-<h3>What's New</h3>
+It took ~50 pages of analysis and discussion to answer the major questions. If you're interested take a look.
 
-The primary addition made by this repository is the inclusion of the underlying code and data sets that we not included in the original analysis.
+<h3>What's New Here</h3>
+
+So what's left. First, the original presentation didn't include the underlying code or data set.  Those will be provided here shortly. Second, the analysis stopped at 2015.  In the near future, I plan to add 2016-2018 and re-run some of the more interesting analyses.
+This time I'll do it in an iPython Notebook and shorten the overall discussion considerably.
 
 (To be continued)
